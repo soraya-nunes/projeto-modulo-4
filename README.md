@@ -22,7 +22,10 @@
 
 # Perguntas
 <ol>
-  <li>primeiro item</li>
-  <li>segundo item</li>
-  <li>terceiro item</li>
+  <li>Quais personagens que mais tiveram aparições na série?</li>
+  <li>Quantos episódios têm em cada temporada?</li>
+  <li>Quais são as 5 regiões com mais casas?</li>
+  <li>Quem dirigiu mais episódios?</li>
+  <li>Qual a maior duração de episódio que têm em cada temporada?</li>
+  <li>Quais os episódios com piores avaliações?</li>
 </ol>
