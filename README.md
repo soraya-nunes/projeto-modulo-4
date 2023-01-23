@@ -29,3 +29,11 @@
   <li>Qual a maior duração de episódio que têm em cada temporada?</li>
   <li>Quais os episódios com piores avaliações?</li>
 </ol>
+
+# Relatório do time de desenvolvimento
+<ul>
+<li>Raysa Reis: Desenvolvimento de perguntas, códigos no MySQL e diagrama de entidade e relacionamento.  </li>
+<li>Wando Barros: Desenvolvimento de perguntas e criação do dashboard.</li>
+<li>Soraya Nunes: Desenvolvimento de perguntas, códigos e criação do README.</li>
+<li>Lucas Amaro: Desenvolvimento de perguntas e criação da apresentação.</li>
+</ul>
