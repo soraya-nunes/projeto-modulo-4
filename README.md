@@ -17,7 +17,7 @@
 <li>Tratamento dos dados;</li>
 <li>Criação de gráficos;</li>
 <li>Criação do diagrama de entidade e relacionamento;</li>
-<li>criação da Apresentação.</li>
+<li>Criação da Apresentação.</li>
 </ul>
 
 # 📋 Perguntas e Querys
@@ -36,7 +36,7 @@
   <img src="Imagens/querys/6. Piores avaliações.png" alt="resp6"/>
 </ol>
 
-# 🐝 Relatório do time de desenvolvimento
+# 🔖 Relatório do time de desenvolvimento
 <ul>
 <li>Raysa Reis: Desenvolvimento de perguntas, códigos no MySQL e diagrama de entidade e relacionamento.  </li>
 <li>Wando Barros: Desenvolvimento de perguntas e criação do dashboard.</li>
