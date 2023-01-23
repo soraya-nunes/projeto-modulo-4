@@ -23,6 +23,7 @@
 # 📋 Perguntas e repostas
 <ol>
   <li>Quais personagens que mais tiveram aparições na série?</li>
+  <img src="Imagens/querys/1. aparições.png" alt="query9"/>
   <li>Quantos episódios têm em cada temporada?</li>
   <li>Quais são as 5 regiões com mais casas?</li>
   <li>Quem dirigiu mais episódios?</li>
